@@ -70,7 +70,7 @@ public class ServerConfig : MonoBehaviour
         if (string.IsNullOrEmpty(IPAddress))
         {
             Debug.Log("Server IP is not set. Returning empty string.");
-            return "";
+            return "NO_IP";
         }
         return IPAddress;
     }
