@@ -101,6 +101,9 @@ public class SimAPI : MonoBehaviour
             if (serverIP == "NO_IP")
             {
                 Debug.LogError("No server IP found. Please check the config file.");
+                popup.SetActive(true);
+                popupText.text = "No se ha encontrado la IP del servidor. Por favor, comprueba el archivo de configuración.";
+                StartCoroutine(HidePopupAfterDelay());
                 yield break;
             }
 
