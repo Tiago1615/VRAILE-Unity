@@ -97,7 +97,6 @@ public class SimAPI : MonoBehaviour
         {
             yield return new WaitUntil(() => !string.IsNullOrEmpty(serverConfig.GetServerIp()));
             string serverIP = serverConfig.GetServerIp();
-            Debug.Log("Server IP: " + serverIP);
             if (serverIP == "NO_IP")
             {
                 Debug.LogError("No server IP found. Please check the config file.");
