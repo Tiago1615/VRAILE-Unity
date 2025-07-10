@@ -118,13 +118,17 @@ También se ha usado la SDK *Oculus Lipsync Unity*, para las animaciones que uti
 
 A continuación se muestran algunas capturas de la aplicación:
 
-![Image](https://github.com/user-attachments/assets/64b2d737-60ca-4ef6-adc5-4bb091ccb750)
+![Image](https://github.com/user-attachments/assets/4be6bd1b-2660-47b5-931d-8692d0b26b4f)
 
-![Image](https://github.com/user-attachments/assets/4a59b360-6faf-4e97-90b9-42d57590e9d1)
+![Image](https://github.com/user-attachments/assets/89b604a8-f8c2-4362-a86d-b24a043fd745)
 
-![Image](https://github.com/user-attachments/assets/1b6e609a-41dc-4064-9643-a0c68936e103)
+![Image](https://github.com/user-attachments/assets/9d4bc73e-1b5a-4a67-99ec-7af2410db067)
 
-![Image](https://github.com/user-attachments/assets/a112ec96-4a0f-4401-9300-72023804ed55)
+![Image](https://github.com/user-attachments/assets/ceae2309-0c4b-412c-a2e8-09f993dd6d2a)
+
+![Image](https://github.com/user-attachments/assets/68feff22-52fc-4b9d-90cf-e6d8712cfd45)
+
+![Image](https://github.com/user-attachments/assets/c3291c2a-e317-4720-adab-da1affd0f6b0)
 
 ## 🚫 Exclusiones
 
